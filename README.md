@@ -1,16 +1,15 @@
 ### Hi there 👋
+I'm John, a generalist developer. I love writing Rust and building robust systems.
 
-<!--
-**johnbchron/johnbchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on
+  - Voxel rendering systems in [Bevy](bevyengine/bevy)
+  - A [toy rewrite](kgraglin-rs/kraglin) of Redis in Rust
+  - Systems for ergonomics in [Nix](NixOS/nix)
+  - Web development with [Leptos](leptos-rs/leptos)
+- 🌱 I’m currently learning
+  - How GPUs work
+  - German & Spanish
+- 👯 Read my work at [my blog](https://blog.jlewis.sh/)
+- 🤔 If you like my work, support me at [my Ko-Fi](https://ko-fi.com/johnbchron)
+- 📫 How to reach me: [contact@jlewis.sh](mailto:contact@jlewis.sh)
+- ⚡ Fun fact: all my facts are serious :|
