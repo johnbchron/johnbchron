@@ -9,7 +9,7 @@ I'm John, a generalist developer. I love writing Rust and building robust system
 - 🌱 I’m currently learning
   - How GPUs work
   - German & Spanish
-- 👯 Read my work at [my blog](https://blog.jlewis.sh/)
-- 🤔 If you like my work, support me at [my Ko-Fi](https://ko-fi.com/johnbchron)
+- 📖 Read my work at [my blog](https://blog.jlewis.sh/)
+- 💰 If you like my work, support me at [my Ko-Fi](https://ko-fi.com/johnbchron)
 - 📫 How to reach me: [contact@jlewis.sh](mailto:contact@jlewis.sh)
 - ⚡ Fun fact: all my facts are serious :|
